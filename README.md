@@ -1,9 +1,12 @@
-SCDoc
+
+![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/cube.icns) SCDoc
 =====
 
 This workflow allows for searching of the SuperCollider help files from Alfred with autosuggestion feedback.
 
 In order for SuperCollider to render the help files you need to run `SCDoc.renderAll` from SuperCollider.
+
+![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/scdocs.png)
 
 As a starting point I used this Maven workflow by Torkild U. Resheim:
 
