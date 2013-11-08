@@ -1,4 +1,3 @@
-
 SCDoc
 =====
 
@@ -7,6 +6,10 @@ This workflow allows for searching of the SuperCollider help files from Alfred, 
 In order to render the help files you need to run `SCDoc.renderAll` in SuperCollider.
 
 ![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/scdocs.png)
+
+[Click here to download](SCDoc/SCDoc.alfredworkflow)
+
+-----------------------------------------------------
 
 As a starting point I used this Maven workflow by Torkild U. Resheim:
 
