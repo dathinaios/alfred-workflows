@@ -13,4 +13,4 @@ In order to render the help files you need to run `SCDoc.renderAll` in SuperColl
 
 As a starting point I used this Maven workflow by Torkild U. Resheim:
 
-https://www.johneday.com/617/generate-feedback-in-alfred-2-workflows
+http://torkild.resheim.no/2013/04/using-alfred-2-to-run-maven-scripts.html
