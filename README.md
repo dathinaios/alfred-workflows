@@ -1,5 +1,5 @@
 
-![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/cube.jpg) SCDoc
+![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/cube.png) SCDoc
 =====
 
 This workflow allows for searching of the SuperCollider help files from Alfred with autosuggestion feedback.
