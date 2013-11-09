@@ -3,7 +3,7 @@ SCDoc
 
 This workflow allows for searching of the SuperCollider help files from Alfred, with autosuggestion feedback.
 
-In order to render the help files you need to run `SCDoc.renderAll` in SuperCollider.
+In order to render the help files you need to run `SCDoc.renderAll` in SuperCollider. Invoke Alfred and input `sd`, hit `Enter` and write the name of the helpfile you are looking for. Alternatively assign a hotkey (current selected item is passed in).
 
 ![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/scdocs.png)
 
