@@ -9,7 +9,7 @@ Invoke Alfred and input `sd`, hit `Enter` and write the name of the helpfile you
 
 ![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/scdocs.png)
 
-[Click here and then 'view raw' to download](SCDoc/SCDoc.alfredworkflow)
+[Click here and then `View Raw` to download](SCDoc/SCDoc.alfredworkflow)
 
 -----------------------------------------------------
 
