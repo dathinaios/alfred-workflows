@@ -7,7 +7,7 @@ In order to render the help files you need to run `SCDoc.renderAll` in SuperColl
 
 Invoke Alfred and input `sd`, hit `Enter` and write the name of the helpfile you are looking for. Alternatively assign a hotkey (current selection is passed in).
 
-![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/scdocs1.png)
+![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/scdocs.png)
 
 [Click here and then `View Raw` to download](SCDoc/SCDoc.alfredworkflow)
 
