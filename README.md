@@ -14,7 +14,7 @@ Invoke Alfred and input `sd`, hit `Enter` and write the name of the helpfile you
 -----------------------------------------------------
 **TIPS:**
 
-1. If you find the search a bit too slow you can make it case sensitive to speed things up a bit. Just open the script in Alfred and change the `find` command flag `-iname` to `-name`.
+1. The search is case sensitive.
 2. In the Run Script you can choose a specific editor by changing `open "{query}"` to, for example, `open -a Safari.app "{query}"`.
 
 
