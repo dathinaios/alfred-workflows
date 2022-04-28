@@ -16,7 +16,7 @@
       },
       "backgroundSelected" : "#4C566AFF",
       "text" : {
-        "size" : 16,
+        "size" : 15,
         "colorSelected" : "#88C0D0FF",
         "font" : "Fira Code Light Regular",
         "color" : "#D8DEE9DD"
@@ -31,7 +31,7 @@
       "paddingHorizontal" : 8,
       "spacing" : 4,
       "text" : {
-        "size" : 36,
+        "size" : 30,
         "colorSelected" : "#E1E1E2FF",
         "font" : "Fira Code Light Regular",
         "color" : "#E1E1E2FF"
