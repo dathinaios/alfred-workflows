@@ -2,9 +2,6 @@
 
 Just download and double click the relevant file.
 
-![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/gruvbox.png)
-![](https://raw.github.com/dathinaios/alfred-workflows/master/GitHubResources/nord.png)
-
 ## SCDoc
 
 This workflow allows for searching of the SuperCollider help files from Alfred, with autosuggestion feedback.
