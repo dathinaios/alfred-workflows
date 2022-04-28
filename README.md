@@ -1,5 +1,4 @@
-SCDoc
-=====
+## SCDoc
 
 This workflow allows for searching of the SuperCollider help files from Alfred, with autosuggestion feedback.
 
@@ -23,3 +22,7 @@ Invoke Alfred and input `sd`, hit `Enter` and write the name of the helpfile you
 As a starting point I used this Maven workflow by Torkild U. Resheim:
 
 http://torkild.resheim.no/2013/04/using-alfred-2-to-run-maven-scripts.html
+
+## Nord and Gruvbox Themes
+
+Just download and double click the relevant file.
