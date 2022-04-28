@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#938372FF",
+        "font" : "Lucida Grande",
+        "color" : "#938373FF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#947D54FF",
+        "font" : "Helvetica",
+        "color" : "#947D54FF"
+      },
+      "backgroundSelected" : "#323232FF",
+      "text" : {
+        "size" : 16,
+        "colorSelected" : "#E2DBB5FF",
+        "font" : "Lucida Grande",
+        "color" : "#D2CBA9FF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "roundness" : 0,
+      "paddingVertical" : 0,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#908073FF",
+      "paddingHorizontal" : 8,
+      "spacing" : 10,
+      "text" : {
+        "size" : 36,
+        "colorSelected" : "#635854FF",
+        "font" : "Baskerville",
+        "color" : "#E2DBB5FF"
+      },
+      "background" : "#282828FF",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#282828FF",
+      "paddingHorizontal" : 10,
+      "width" : 500,
+      "borderPadding" : 10,
+      "borderColor" : "#2A252000",
+      "blur" : 0,
+      "roundness" : 12,
+      "paddingVertical" : 10
+    },
+    "credit" : "Dionysis Athinaios (based on morhead's theme)",
+    "separator" : {
+      "color" : "#000000FF",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#7F7F7F6D",
+      "thickness" : 2
+    },
+    "name" : "Gruvbox"
+  }
+}
