@@ -1,63 +1,64 @@
 {
   "alfredtheme" : {
     "result" : {
-      "textSpacing" : 4,
+      "textSpacing" : 8,
       "subtext" : {
         "size" : 11,
-        "colorSelected" : "#938372FF",
-        "font" : "Lucida Grande",
-        "color" : "#938373FF"
+        "colorSelected" : "#928273FF",
+        "font" : "Fira Code Light",
+        "color" : "#928273FF"
       },
       "shortcut" : {
-        "size" : 16,
-        "colorSelected" : "#947D54FF",
-        "font" : "Helvetica",
-        "color" : "#947D54FF"
+        "size" : 12,
+        "colorSelected" : "#D8DEE9FF",
+        "font" : "System Light",
+        "color" : "#928273FF"
       },
-      "backgroundSelected" : "#323232FF",
+      "backgroundSelected" : "#453F3DA8",
       "text" : {
-        "size" : 16,
-        "colorSelected" : "#E2DBB5FF",
-        "font" : "Lucida Grande",
-        "color" : "#D2CBA9FF"
+        "size" : 15,
+        "colorSelected" : "#A9B665FF",
+        "font" : "Fira Code Light Regular",
+        "color" : "#A9B665FF"
       },
-      "iconPaddingHorizontal" : 5,
+      "iconPaddingHorizontal" : 12,
       "roundness" : 0,
-      "paddingVertical" : 0,
-      "iconSize" : 40
+      "paddingVertical" : 7,
+      "iconSize" : 31
     },
     "search" : {
-      "backgroundSelected" : "#908073FF",
+      "backgroundSelected" : "#453F3DA8",
       "paddingHorizontal" : 8,
-      "spacing" : 10,
+      "spacing" : 0,
       "text" : {
-        "size" : 36,
-        "colorSelected" : "#635854FF",
-        "font" : "Baskerville",
-        "color" : "#E2DBB5FF"
+        "size" : 35,
+        "colorSelected" : "#D1BC96FF",
+        "font" : "Fira Code Light",
+        "color" : "#D1BC96FF"
       },
       "background" : "#282828FF",
       "roundness" : 0,
-      "paddingVertical" : 2
+      "paddingVertical" : 5
     },
     "window" : {
       "color" : "#282828FF",
-      "paddingHorizontal" : 10,
-      "width" : 500,
-      "borderPadding" : 10,
-      "borderColor" : "#2A252000",
+      "paddingHorizontal" : 7,
+      "width" : 550,
+      "borderPadding" : 0,
+      "borderColor" : "#434343FF",
       "blur" : 0,
-      "roundness" : 12,
-      "paddingVertical" : 10
+      "roundness" : 8,
+      "paddingVertical" : 1
     },
-    "credit" : "Dionysis Athinaios (based on morhead's theme)",
+    "credit" : "Dionysis Athinaios",
+    "visualEffectMode" : 2,
     "separator" : {
-      "color" : "#000000FF",
-      "thickness" : 1
+      "color" : "#434343FF",
+      "thickness" : 2
     },
     "scrollbar" : {
-      "color" : "#7F7F7F6D",
-      "thickness" : 2
+      "color" : "#928273FF",
+      "thickness" : 5
     },
     "name" : "Gruvbox"
   }
