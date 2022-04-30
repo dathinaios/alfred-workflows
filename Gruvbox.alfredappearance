@@ -14,12 +14,12 @@
         "font" : "System Light",
         "color" : "#928273FF"
       },
-      "backgroundSelected" : "#453F3DA8",
+      "backgroundSelected" : "#413A33FF",
       "text" : {
         "size" : 15,
-        "colorSelected" : "#A9B665FF",
+        "colorSelected" : "#D1BC96FF",
         "font" : "Fira Code Light Regular",
-        "color" : "#A9B665FF"
+        "color" : "#D1BC96FF"
       },
       "iconPaddingHorizontal" : 12,
       "roundness" : 0,
@@ -31,14 +31,14 @@
       "paddingHorizontal" : 8,
       "spacing" : 0,
       "text" : {
-        "size" : 35,
-        "colorSelected" : "#D1BC96FF",
+        "size" : 31,
+        "colorSelected" : "#928273FF",
         "font" : "Fira Code Light",
         "color" : "#D1BC96FF"
       },
       "background" : "#282828FF",
       "roundness" : 0,
-      "paddingVertical" : 5
+      "paddingVertical" : 9
     },
     "window" : {
       "color" : "#282828FF",
