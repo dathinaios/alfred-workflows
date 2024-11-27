@@ -27,10 +27,3 @@ Invoke Alfred and input `sd`, hit `Enter` and write the name of the helpfile you
 
 1. The search is case sensitive.
 2. In the Run Script you can choose a specific editor by changing `open "{query}"` to, for example, `open -a Safari.app "{query}"`.
-
-
------------------------------------------------------
-
-As a starting point I used this Maven workflow by Torkild U. Resheim:
-
-http://torkild.resheim.no/2013/04/using-alfred-2-to-run-maven-scripts.html
